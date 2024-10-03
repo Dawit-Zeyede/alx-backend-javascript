@@ -1,6 +1,3 @@
-/**
- * Represents a class room.
- */
 export default class ClassRoom {
   /**
    * Creates a new @see {@link ClassRoom}.
